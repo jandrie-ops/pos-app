@@ -19,7 +19,7 @@ Prepared during Prompt 03 on 2026-10-07. This record supports pages 2-4 of `IT41
 | Setup implementation commit | [a20201aeb262959b4d38f5f80bed78a3b5e8d56f](https://github.com/Yray0-9/pos-app/commit/a20201aeb262959b4d38f5f80bed78a3b5e8d56f) - Establish Django foundation and exam evidence records |
 | Integration branch state | main and local origin/main at `141af0103e8e73630acf76f867bfb5caeed07efe`; generated artifacts/.env tracked and prepared sources absent. Not used as the catalog base; resolution pending |
 | Files tracked by setup commit | 17 foundation/scaffold/planning/evidence files; private environment, venv, database, and caches excluded |
-| Final demonstrated integration commit | Pinding; the initial commit is not the final app |
+| Final demonstrated integration commit | Pnding; the initial commit is not the final app |
 | Instructor repository access | Pending instructor verification |
 | Local clone demonstrated | Pending; local .git/origin presence does not establish the demonstration |
 | Branch list / network evidence | [Branches](https://github.com/Yray0-9/pos-app/branches); [setup branch](https://github.com/Yray0-9/pos-app/tree/codex/setup-foundation); API/remote verification recorded at this checkpoint |
