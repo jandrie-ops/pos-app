@@ -18,7 +18,7 @@ Prepared during Prompt 03 on 2026-10-07. This record supports pages 2-4 of `IT41
 | Current local branch | catalog-data tracking origin/catalog-data; Prompt 05 implementation a02288bca6d1fda50cfea7191066b25cf47e46e2 pushed; PR #3 open |
 | Setup implementation commit | [a20201aeb262959b4d38f5f80bed78a3b5e8d56f](https://github.com/Yray0-9/pos-app/commit/a20201aeb262959b4d38f5f80bed78a3b5e8d56f) - Establish Django foundation and exam evidence records |
 | Integration branch state | main and local origin/main at `141af0103e8e73630acf76f867bfb5caeed07efe`; generated artifacts/.env tracked and prepared sources absent. Not used as the catalog base; resolution pending |
-| Files tracked by setup commit | 17 foundation/scaffold/planning/evidence files; private environment, venv, databases, and caches excluded |
+| Files tracked by setup commit | 17 foundation/scaffold/planning/evidence files; private environment, venv, database, and caches excluded |
 | Final demonstrated integration commit | Pending; the initial commit is not the final app |
 | Instructor repository access | Pending instructor verification |
 | Local clone demonstrated | Pending; local .git/origin presence does not establish the demonstration |
