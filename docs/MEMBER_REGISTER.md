@@ -23,7 +23,7 @@ Prepared during Prompt 03 on 2026-10-07. This record supports pages 2-4 of `IT41
 | Instructor repository access | Pending instructor verification |
 | Local clone demonstrated | Pending; local .git/origin presence does not establish the demonstration |
 | Branch list / network evidence | [Branches](https://github.com/Yray0-9/pos-app/branches); [setup branch](https://github.com/Yray0-9/pos-app/tree/codex/setup-foundation); API/remote verification recorded at this checkpoint |
-| Setup changes committed/pushed | Yes, setup commit above; [PR #1](https://github.com/Yray0-9/pos-app/pull/1) open from codex/setup-foundation -> main |
+| Setup changes committed/pushed | Yes, setup commit above; [PR #1](https://github.com/Yray0-9/pos-app/pull/1) Open from codex/setup-foundation -> main |
 
 ## Member identities and branches
 
